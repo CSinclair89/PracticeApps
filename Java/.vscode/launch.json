@@ -1,0 +1,66 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "threading2",
+      "request": "launch",
+      "mainClass": "Threading.threading2",
+      "projectName": "Java_a775878c"
+    },
+    {
+      "type": "java",
+      "name": "threading2",
+      "request": "launch",
+      "mainClass": "threading.threading2",
+      "projectName": "Java_a775878c"
+    },
+    {
+      "type": "java",
+      "name": "threading",
+      "request": "launch",
+      "mainClass": "threading.threading",
+      "projectName": "Java_a775878c"
+    },
+    {
+      "type": "java",
+      "name": "threading",
+      "request": "launch",
+      "mainClass": "threading",
+      "projectName": "Java_a775878c"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "Java_a775878c"
+    },
+    {
+      "type": "java",
+      "name": "binarysearch",
+      "request": "launch",
+      "mainClass": "binarysearch",
+      "projectName": "Java_a775878c"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Chris/Desktop/CODE/PracticeApps/Java/DSA",
+      "program": "c:/Users/Chris/Desktop/CODE/PracticeApps/Java/DSA/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
